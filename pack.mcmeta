@@ -1,6 +1,9 @@
 {
   "pack": {
+    "description": "Adds a mace enchantment that makes players drop their heads",
     "pack_format": 48,
-    "description": "Adds a mace enchantment that makes players drop their heads"
+    "supported_formats": [48, 101],
+    "min_format": 48,
+    "max_format": 101
   }
 }
